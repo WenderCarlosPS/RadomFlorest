@@ -1,0 +1,1 @@
+Analisar se há correlação entre as notas do IMDb e características dos episódios, como equipe envolvida, arcos narrativos e duração. Além disso, desenvolver um modelo de machine learning para prever avaliações futuras.
